@@ -1,0 +1,51 @@
+#home{
+        text-align: center;
+        color: aqua;
+        background: linear-gradient(blue 100%, green 50%, yellow 0%);
+}
+.menus{
+        float: center;
+        position: fixed;
+        margin-top:0px;
+        width:50%;
+        background:green;
+        list-style: none;
+        top:0px;
+        cursor: pointer;
+        z-index: 10;
+}
+.links{
+        display: inline;
+        padding-left: 35px;
+        padding-right: 35px;
+        font-size:20px;
+        font-family: Rancho;    
+}
+.links:hover{
+ font-size: 25px;
+ background: yellow;
+}
+#ggg{
+ margin-top: 30px;
+}
+#photo{
+ border-radius: 50%;
+ height: 200px;
+ width: 150px;
+}
+.photogg{
+ width: 800;
+ height:700;
+ margin-bottom: 30px;
+}
+span{
+font-size: 20px;
+color: aqua;
+}
+.a{
+ cursor: pointer;
+}
+.a:hover{
+ width: 900px;
+ height: 800px;
+}
